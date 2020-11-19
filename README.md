@@ -1,3 +1,3 @@
 # LibraryManagement
 
-LIBRARY MANAGEMENT SYSTEM USED TO MANAGE THE CATALOG OF A LIBRARY.
+A management system used to manage the catalog of a library.
